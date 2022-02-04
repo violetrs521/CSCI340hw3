@@ -7,4 +7,4 @@ hw1: hw3.c
 	gcc hw3.c -o hw3 
 
 run:
-	./hw3 parameter1 parameter2
+	./hw3 ls -l
